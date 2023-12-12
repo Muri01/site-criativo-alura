@@ -1,4 +1,4 @@
 # site-criativo-alura
 Projeto do curso da alura de HTML e CSS
 
-- figma: https://www.figma.com/files/recents-and-sharing/recently-viewed?fuid=1316378891661314133
+-[ figma: ](https://www.figma.com/community/file/1304865732547155940)https://www.figma.com/community/file/1304865732547155940
